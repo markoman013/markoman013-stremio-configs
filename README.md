@@ -1,5 +1,4 @@
 # markoman013-stremio-configs
 markoman013 Stremio setup - AIOMetadata, AIOStreams, Subtitles
 
-Link to AIOStreams config:
-`https://raw.githubusercontent.com/markoman013/markoman013-stremio-configs/main/mman013-aiostreams.json`
+AIOStreams config: to get link, click on mman013-aiostreams.json file and copy RAW link (top right). 
